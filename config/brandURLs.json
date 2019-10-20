@@ -1,0 +1,6 @@
+{
+  "Naturella": "https://www.naturella.com.mx",
+  "AlwaysEU": "https://www.always.eu/{locale}",
+  "test404": "http://404.returnco.de/whatever",
+  "test500": "http://500.returnco.de/whatever"
+}

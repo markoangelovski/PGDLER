@@ -1,0 +1,2 @@
+### GET All GTM data
+GET http://localhost:3000/?site=https://www.google.com
